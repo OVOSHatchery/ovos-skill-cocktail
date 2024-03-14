@@ -6,7 +6,7 @@ from os import walk
 # Define package information
 SKILL_CLAZZ = "CocktailSkill"  # Make sure it matches __init__.py class name
 VERSION = "0.0.1"
-URL = "https://github.com/OVOSHatchery/skill-cocktail"
+URL = "https://github.com/OVOSHatchery/ovos-skill-cocktail"
 AUTHOR = "forslund"
 EMAIL = ""
 LICENSE = "GPLv3"
